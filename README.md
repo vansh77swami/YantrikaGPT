@@ -1,6 +1,5 @@
 # [**YantrikaGPT**](https://samyakgptui.is-an.app)
 
-<br><br>
 [![Try it online](https://img.shields.io/badge/Try%20it%20online-%F0%9F%8C%90-blueviolet)](https://samyakgptui.is-an.app)
 
 
