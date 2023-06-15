@@ -50,7 +50,11 @@
 
 To install and run this application locally, follow these steps:
 
-Adding Soon
+1. Clone the repository: `git clone https://github.com/UseLEss213/YantrikaGPT
+2. Change to the project directory: `cd YantrikaGPT`
+3. Install dependencies: `npm install`
+4. Start the app: `npm start`
+<br>
 
 -------------
 
