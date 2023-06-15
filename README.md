@@ -50,11 +50,7 @@
 
 To install and run this application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Sammy970/SamyakGPTUI`
-2. Change to the project directory: `cd SamyakGPTUI`
-3. Install dependencies: `npm install`
-4. Start the app: `npm start`
-<br>
+Adding Soon
 
 -------------
 
