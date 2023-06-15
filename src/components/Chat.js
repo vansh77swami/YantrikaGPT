@@ -61,7 +61,7 @@ const Chat = () => {
 
             give all examples in markdown
 
-            We have three plugins which are reversed by Sammy970:
+            We have three plugins which are reversed by Vansh:
             promptPerfect: This helps to create a perfect prompt with new details. In order to create the perfect prompt they need to type '? ' and then the prompt. For example - ? Create a story related to Harry Poter.
 
             webSearch: This plugin lets you search the internet and get results and ask questions to it. To use this you should use the keyword '? '. For example - ? Who is the current president of India?.
@@ -288,8 +288,8 @@ const Chat = () => {
             {!keyUrlEntered &&
                 <form className="api-input-form" onSubmit={handleAPI}>
                     <div className="input-center">
-                        <h2>Welcome to SamyakGPT UI</h2>
-                        <h4>a clean way to imagine new things</h4>
+                        <h2>YantrikaGPT</h2>
+                        <h4>a yantra for endless search</h4>
                         <input
                             required
                             type="text"
