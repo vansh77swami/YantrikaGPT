@@ -66,4 +66,4 @@ Adding Soon
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-Feel free to explore, contribute, and let your creativity flow! 😄
+Embrace the spirit of exploration, contribute freely, and allow your creativity to soar! 🚀
