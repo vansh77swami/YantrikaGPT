@@ -1,4 +1,4 @@
-# [**SamyakGPTUI**](https://samyakgptui.is-an.app)
+# [**YantrikaGPT**](https://samyakgptui.is-an.app)
 
 [![ReactJS](https://img.shields.io/badge/Built%20with-ReactJS-blue)](https://reactjs.org/)
 <br><br>
