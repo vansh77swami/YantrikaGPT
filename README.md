@@ -1,6 +1,6 @@
 # [**YantrikaGPT**](https://samyakgptui.is-an.app)
 
-[![Try it online](https://img.shields.io/badge/Try%20it%20online-%F0%9F%8C%90-blueviolet)](https://samyakgptui.is-an.app)
+[![Try it online](https://img.shields.io/badge/Try%20it%20online-%F0%9F%8C%90-blueviolet)(https://yantrika-gpt.vercel.app/))
 
 
 🚀 Welcome to My Awesome App! This application harnesses the power of OpenAI's GPT models, offering support for three different versions: `GPT 3.5 - Turbo`, `GPT 3.5 - Turbo - 16k`, and `GPT-4`.
